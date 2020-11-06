@@ -1,0 +1,16 @@
+$copper: rgb(251, 174, 102);
+$gold: rgb(251, 218, 71);
+
+$primary: $copper;
+$secondary: $gold;
+
+$base-font-size: 22px;
+
+$alegreya-font-path: "../fonts/";
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url("../fonts/AlegreyaSans-Regular.ttf") format("truetype");
+}
+
+$font-family: 'Alegreya Sans', sans-serif;

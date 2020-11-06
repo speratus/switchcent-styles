@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Alegreya Sans';
+  src: url("../fonts/AlegreyaSans-Regular.ttf") format("truetype");
+}
+/* line 3, ../../sass/layouts/main.scss */
+html {
+  font-size: 22px;
+  font-family: "Alegreya Sans", sans-serif;
+}
